@@ -1,7 +1,6 @@
 <em> # Este es un programa de libre uso, desarrollado y subido por el autor Eztbn. </em>
 
-<h1 align="center"> #StreamManager: Gestión de Inventario de Cuentas de Streaming
-StreamManager Pro es una aplicación de escritorio moderna y robusta, desarrollada en Python, diseñada para vendedores y gestores de cuentas de streaming. Permite llevar un control total sobre el inventario de cuentas, gestionar alquileres a múltiples usuarios y asegurar la información sensible de manera profesional. </h1>
+<h1 align="center"> #StreamManager: Gestión de Inventario de Cuentas de Streaming</h1>
 
 La aplicación cuenta con una interfaz gráfica intuitiva y un sistema de monetización seguro a través de claves premium validadas por una API remota.
 
