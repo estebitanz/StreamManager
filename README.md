@@ -2,8 +2,6 @@
 
 <h1 align="center"> #StreamManager: Gestión de Inventario de Cuentas de Streaming</h1>
 
-![1.](Screenshot 2025-07-04 173628.png)
-
 La aplicación cuenta con una interfaz gráfica intuitiva y un sistema de monetización seguro a través de claves premium validadas por una API remota.
 
 ✨ Características Principales
