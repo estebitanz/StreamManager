@@ -11,7 +11,7 @@ Historial de Ventas: Mantén un registro detallado de todos los alquileres, con 
 Dashboard de Análisis: Visualiza estadísticas clave de tu negocio de un vistazo: total de cuentas, disponibles, y número de alquileres activos.
 Notificaciones Inteligentes: Recibe alertas de los alquileres que están próximos a vencer para poder gestionar las renovaciones a tiempo.
 
-<h2 align="center"> Intrucciones de instalacion y uso:</h2>
+<h2 align="center"> Instrucciones de instalacion y uso:</h2>
 
 Descargar el .exe por el link mediafire.
 Es recomendable almacenar el .exe en una carpeta nueva.
